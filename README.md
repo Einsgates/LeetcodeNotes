@@ -11,4 +11,6 @@
 
 [5.最长回文子串(中)](https://github.com/Einsgates/LeetcodeNotes/blob/master/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)
 
+[6.Z字型变换(中)](https://github.com/Einsgates/LeetcodeNotes/blob/master/6.Z%E5%AD%97%E5%9E%8B%E5%8F%98%E6%8D%A2.md)
+
 [11.盛水最多的容器(中)](https://github.com/Einsgates/LeetcodeNotes/blob/master/11.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
