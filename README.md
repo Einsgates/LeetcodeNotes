@@ -15,4 +15,6 @@
 
 [7.整数反转](https://github.com/Einsgates/LeetcodeNotes/blob/master/7.%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md)
 
+[9. 回文数](https://github.com/Einsgates/LeetcodeNotes/blob/master/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md)
+
 [11.盛水最多的容器(中)](https://github.com/Einsgates/LeetcodeNotes/blob/master/11.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md)
