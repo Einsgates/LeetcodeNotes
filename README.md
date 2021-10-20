@@ -1,7 +1,13 @@
 # LeetcodeNotes
 记录了刷题过程以及思考总结，尽可能从**不同角度**出发思考，并且由最初的最好想的**暴力解法**逐渐过渡到**最优解**，力求**时间复杂度**最低。
 
-[Youtube讲解--英文](https://www.youtube.com/watch?v=vwU6avctgVY&list=PLN_D6sQhgsu8Gv9S6cw-_50_CywNdxHEo)
+This records some **Leetcode Problems** and my solutions. Additionally, I made them as videos to help more people in the way to find a job. To be more convenient, I made some **English videos** in push them in my **YouTube Channel** and hope it helps me clear my illustrations and help others vividly.
+
+However, the solutions that in `.md` files are explained in Chinese and later I will write a English Version.
+
+For some specific companies like [Facebook](https://github.com/Einsgates/InterviewsPractice), you can also see my detailed solutions and [YouTube](https://www.youtube.com/watch?v=27_NEXqkTgw&list=PLN_D6sQhgsu_ErURuCTV9Z7QKobwr9SvK) videos for them.
+
+[YouTube: Explanations](https://www.youtube.com/watch?v=vwU6avctgVY&list=PLN_D6sQhgsu8Gv9S6cw-_50_CywNdxHEo)
 
 [1.两数之和(易)](https://github.com/Einsgates/LeetcodeNotes/blob/master/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C(%E6%98%93).md)
 
