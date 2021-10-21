@@ -5,7 +5,7 @@ This records some **Leetcode Problems** and my solutions. Additionally, I made t
 
 However, the solutions that in `.md` files are explained in Chinese and later I will write a English Version.
 
-For some specific companies like [Facebook](https://github.com/Einsgates/InterviewsPractice), you can also see my detailed solutions and [YouTube](https://www.youtube.com/watch?v=27_NEXqkTgw&list=PLN_D6sQhgsu_ErURuCTV9Z7QKobwr9SvK) videos for them.
+For some specific companies like [Facebook](https://github.com/Einsgates/InterviewsPractice) (Temporarily closed) you can also see my detailed solutions and [YouTube](https://www.youtube.com/watch?v=27_NEXqkTgw&list=PLN_D6sQhgsu_ErURuCTV9Z7QKobwr9SvK) videos for them.
 
 [YouTube: Explanations](https://www.youtube.com/watch?v=vwU6avctgVY&list=PLN_D6sQhgsu8Gv9S6cw-_50_CywNdxHEo)
 
